@@ -1,0 +1,1 @@
+use your own api id from weather api and paste it inside index.js under axios
